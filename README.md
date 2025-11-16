@@ -59,23 +59,25 @@
 
 gear-checklist-bot/
 ├─ src/
-│ ├─ gear_bot.py
-│ ├─ config.py
-│ ├─ handlers/
-│ ├─ keyboards/
-│ ├─ services/
-│ └─ utils/
+│  ├─ gear_bot.py        # entry point
+│  ├─ config.py          # config & paths
+│  ├─ handlers/          # Telegram flows
+│  ├─ keyboards/         # inline / reply keyboards
+│  ├─ services/          # business logic
+│  └─ utils/             # helpers, validators
 ├─ data/
-│ ├─ routes_russia.csv
-│ ├─ routes_smolensk_crt67.csv
-│ ├─ routes_latvia.csv
-│ ├─ routes_world.csv
-│ ├─ gear_db.csv
-│ └─ location_gear.csv
+│  ├─ routes_russia.csv
+│  ├─ routes_smolensk_crt67.csv
+│  ├─ routes_latvia.csv
+│  ├─ routes_world.csv
+│  ├─ gear_db.csv
+│  └─ location_gear.csv
 ├─ assets/
-│ ├─ fonts/DejaVuSans.ttf
-│ └─ qr_temp/
+│  ├─ fonts/DejaVuSans.ttf
+│  └─ qr_temp/
 ├─ requirements.txt
+└─ README.md
+
 
 
 ---
