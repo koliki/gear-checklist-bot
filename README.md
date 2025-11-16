@@ -59,12 +59,23 @@
 
 gear-checklist-bot/
 ├─ src/
-│  ├─ gear_bot.py        # entry point
-│  ├─ config.py          # config & paths
-│  ├─ handlers/          # Telegram flows
-│  ├─ keyboards/         # inline / reply keyboards
-│  ├─ services/          # business logic
-│  └─ utils/             # helpers, validators
+│  ├─ gear_bot.py
+│  ├─ config.py
+│  ├─ handlers/
+│  │  ├─ start.py
+│  │  ├─ location_menu.py
+│  │  ├─ route_flow.py
+│  │  └─ pdf_flow.py
+│  ├─ keyboards/
+│  │  ├─ main_menu.py
+│  │  └─ route_menu.py
+│  ├─ services/
+│  │  ├─ routes_service.py
+│  │  ├─ gear_service.py
+│  │  └─ pdf_service.py
+│  └─ utils/
+│     ├─ csv_loader.py
+│     └─ validators.py
 ├─ data/
 │  ├─ routes_russia.csv
 │  ├─ routes_smolensk_crt67.csv
@@ -73,10 +84,12 @@ gear-checklist-bot/
 │  ├─ gear_db.csv
 │  └─ location_gear.csv
 ├─ assets/
-│  ├─ fonts/DejaVuSans.ttf
+│  ├─ fonts/
+│  │  └─ DejaVuSans.ttf
 │  └─ qr_temp/
 ├─ requirements.txt
 └─ README.md
+
 
 
 
