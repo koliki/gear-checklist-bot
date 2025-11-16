@@ -90,9 +90,6 @@ gear-checklist-bot/
 ├─ requirements.txt
 └─ README.md
 
-
-
-
 ---
 
 ## ⚙ Установка и запуск (Windows)
