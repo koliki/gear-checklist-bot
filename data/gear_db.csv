@@ -1,0 +1,15 @@
+item_id,category,name,is_personal,season,min_days,max_days,experience_level,mandatory,quantity_per_person,quantity_group
+tent_3p,палатка,Трехместная палатка,0,all,1,14,any,yes,0,1
+sleeping_summer,сон,Спальный мешок летний,1,summer,1,14,any,yes,1,0
+sleeping_3season,сон,Спальный мешок демисезонный,1,mid,1,14,any,yes,1,0
+sleeping_winter,сон,Спальный мешок зимний,1,winter,1,14,any,yes,1,0
+mat,сон,Каремат туристический,1,all,1,30,any,yes,1,0
+stove_gas,кухня,Газовая горелка,0,all,1,30,any,yes,0,1
+gas_can,кухня,Баллон газовый 230 г,0,all,1,3,any,yes,0,2
+cookpot,кухня,Котелок 2 л,0,all,1,5,any,yes,0,1
+headlamp,освещение,Налобный фонарь,1,all,1,30,any,yes,1,0
+jacket_warm,одежда,Теплая куртка,1,mid,1,30,any,yes,1,0
+raincoat,одежда,Дождевик,1,all,1,30,any,yes,1,0
+first_aid,аптечка,Общая аптечка,0,all,1,30,beginner,yes,0,1
+repair_kit,ремнабор,Набор для ремонта снаряжения,0,all,1,30,advanced,yes,0,1
+repellent,защита,Репеллент от насекомых,1,summer,1,30,any,yes,1,0

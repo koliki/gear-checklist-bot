@@ -1,0 +1,3 @@
+route_id,title,region,country,distance_km,duration_days,difficulty,season,map_url,gpx_url,description_short
+world_tmb,Тур дю Монблан,Альпы,Франция–Италия–Швейцария,170,10,4,июль–сентябрь,https://example.com/routes/tmb,,Классический альпийский трек вокруг Монблана.
+world_camino,Камино-де-Сантьяго,Галисия,Испания,110,5,2,апрель–октябрь,https://example.com/routes/camino,,Пешее паломничество по историческому пути к Сантьяго-де-Компостела.

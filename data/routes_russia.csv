@@ -1,0 +1,3 @@
+route_id,title,region,country,distance_km,duration_days,difficulty,season,map_url,gpx_url,description_short
+ru_kola_coast,Поморское побережье Кольского,Мурманская область,Россия,45,3,3,июль–сентябрь,,https://example.com/gpx/kola-coast.gpx,Морской берег и скалы.
+ru_karelia_ladoga,Ладожские шхеры,Карелия,Россия,60,4,3,июнь–сентябрь,https://example.com/routes/ladoga-schery,https://example.com/gpx/ladoga-schery.gpx,Красивый маршрут по озёрным берегам.

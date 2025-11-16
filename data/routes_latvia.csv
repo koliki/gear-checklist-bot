@@ -1,0 +1,3 @@
+route_id,title,region,country,distance_km,duration_days,difficulty,season,map_url,gpx_url,description_short
+lv_gauja_loop,Петля Гауи,Сигулда,Латвия,25,2,2,май–сентябрь,https://example.com/routes/gauja-loop,https://example.com/gpx/gauja-loop.gpx,Маршрут по долине реки Гауя.
+lv_kemeri_bog,Болото Кемери,Юрмала,Латвия,10,1,1,круглый год,https://example.com/routes/kemeri-bog,,Прогулка по настилам через болото.
